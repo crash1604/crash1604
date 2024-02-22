@@ -47,7 +47,7 @@ Passionate Full-Stack Software Developer | Aspiring AI/ML Enthusiast | Based in 
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/chanakyadeveloper/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanakyadeveloper/)
 
 ## 🤝 Contributions and Collaborations
 
