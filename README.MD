@@ -57,7 +57,7 @@ Passionate Full-Stack Software Developer | Aspiring AI/ML Enthusiast | Based in 
 
 ## 🌐 Check Out My Website
 
-[Your Portfolio/Blog Link](link_to_your_portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=flat-square)]() under maintenance
 
 ## 🎉 Thanks for visiting!
 
