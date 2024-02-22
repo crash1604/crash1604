@@ -37,7 +37,7 @@ Passionate Full-Stack Software Developer | Aspiring AI/ML Enthusiast | Based in 
 - ![Spring Cloud Consul](https://img.shields.io/badge/-Spring%20Cloud%20Consul-yellowgreen?style=flat-square&logo=spring&logoColor=white)
 
 ### Certifications and Achievements
-- Mention any other relevant certifications or notable achievements.
+- ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-orange?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 📚 Learning
 
@@ -57,7 +57,7 @@ Passionate Full-Stack Software Developer | Aspiring AI/ML Enthusiast | Based in 
 
 ## 🌐 Check Out My Website
 
-[Your Portfolio/Blog Link](link_to_your_portfolio)
+[Your Portfolio/Blog Link]()Under Maintenance
 
 ## 🎉 Thanks for visiting!
 
